@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,15 +9,13 @@ redirect_from:
 
 MRes student in Political Science at the LSE. 
 
-Previously:
-======
-1. Pre-doctoral fellow at FAIR - CELE, Norwegian School of Economics
-1. BA (2021) and MSc (2023) in Economics, Alma Mater Studiorum - Università di Bologna 
+**Previously:**
+- Pre-doctoral fellow at FAIR - CELE, Norwegian School of Economics
+- BA (2021) and MSc (2023) in Economics, Alma Mater Studiorum - Università di Bologna 
 
-Research interests
-======
-1. Political Economy
-1. Economic History
+**Research interests**
+- Political Economy
+- Economic History
 
 Getting started
 ======
