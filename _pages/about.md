@@ -15,14 +15,10 @@ Department of Government<br />London School of Economics and Political Science<b
 </address>
 
 
-
-
-
-
-**Previously:**
+# Previously:
 * Pre-doctoral fellow at [FAIR - CELE, Norwegian School of Economics](https://www.nhh.no/en/research-centres/fair)
 * BA (2021) and MSc (2023) in Economics, [Alma Mater Studiorum - Università di Bologna](https://dse.unibo.it/it/index.html) 
 
-**Research interests**
+# Research interests
 * Political Economy
 * Economic History
