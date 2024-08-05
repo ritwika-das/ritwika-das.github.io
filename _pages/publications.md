@@ -9,10 +9,6 @@ Work in Progress
 ------
 
 * Unemployment, war, and technological change in XXth century Norway
-  joint with K. Salvanes (NHH)
+  * joint with K. Salvanes (NHH)
 
-# {% include base_path %}
-# {% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-# {% endfor %}
 
