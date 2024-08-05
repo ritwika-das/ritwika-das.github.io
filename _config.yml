@@ -13,7 +13,7 @@ title                    : "Christian Cervellera"
 title_separator          : "-"
 name                     : &name "Christian Cervellera"
 description              : &description "personal description"
-url                      : https://christiancervellera.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "christiancervellera/christiancervellera.github.io"
 
