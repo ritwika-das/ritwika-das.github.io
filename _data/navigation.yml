@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: files/cv_Cervellera.pdf
+    url: /files/cv_Cervellera.pdf
 
   - title: "Research"
     url: /publications/
