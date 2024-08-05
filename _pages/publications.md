@@ -8,7 +8,7 @@ author_profile: true
 Work in Progress
 ------
 
-{% for post in site.research reversed %}
+{% for post in site.publications reversed %}
   {% if post.PublicationStatus == 'WorkInProgress' %}
     {% include archive-single.html %}
   {% endif %}
