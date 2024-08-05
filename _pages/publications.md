@@ -10,9 +10,8 @@ author_profile: true
 [**The Bolshevik roots of social capital: an empirical investigation**]() <br>
 Master's thesis
 
-###### Presented at: 
+###### Presented at: Norwegian Winter Games in Economic History 2023; FAIR P&P
 
-###### Coverage: 
 
   <details>
     <summary> Abstract </summary>
@@ -22,9 +21,7 @@ Master's thesis
 ---
 
 [**War, unemployment, and technological change in XXth century Norway**]() <br>
-with [K. Salvanes]()
-
-###### Presented at: 
+with [K. Salvanes](https://sites.google.com/view/kjellsalvanes)
 
 ###### Coverage: 
 
