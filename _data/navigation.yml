@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+  #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: "https://www.dropbox.com/scl/fi/3nfmvp6sbydew9h447x1l/cv_Cervellera.pdf?rlkey=svyg1nsmxi0x4bqf6i1flgg8n&st=s2q1qfzz&dl=0"
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
