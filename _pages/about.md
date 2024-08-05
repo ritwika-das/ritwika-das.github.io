@@ -13,7 +13,9 @@ MRes/PhD student, Political Science and Political Economy
 
 [Department of Government, London School of Economics and Political Science](https://www.lse.ac.uk/government)
 
-Houghton Street, London WC2A 2AE, UK
+<address>
+ Houghton Street <br /> London WC2A 2AE<br /> UK
+</address>, 
 
 **Previously:**
 - Pre-doctoral fellow at [FAIR - CELE, Norwegian School of Economics](https://www.nhh.no/en/research-centres/fair)
