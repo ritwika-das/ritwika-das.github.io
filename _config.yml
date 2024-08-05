@@ -24,7 +24,7 @@ repository               : "christiancervellera/christiancervellera.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/s16064.jpg"
+  avatar           : "s16064.jpg"
   name             : "Christian Cervellera"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "MRes/PhD student, Political Science and Political Economy"
