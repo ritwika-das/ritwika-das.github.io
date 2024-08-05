@@ -6,8 +6,8 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-#theme: minimal-mistakes-jekyll
-#minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Basic Site Settings
 locale                   : "en-US"
@@ -28,7 +28,7 @@ author:
   name             : "Christian Cervellera"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "MRes/PhD student, Political Science and Political Economy"
-  location         : "Houghton Street, London WC2A 2AE, UK"
+  location         : "Houghton Street, London UK"
   employer         : "Department of Government, LSE"
   uri              : # URL
   email            : "ccervellera.cc@gmail.com" 
