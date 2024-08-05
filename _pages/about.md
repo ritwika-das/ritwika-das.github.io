@@ -11,13 +11,13 @@ redirect_from:
 
 MRes/PhD student, Political Science and Political Economy
 
-.[Department of Government, London School of Economics and Political Science](https://www.lse.ac.uk/government)
+[Department of Government, London School of Economics and Political Science](https://www.lse.ac.uk/government)
 
 Houghton Street, London WC2A 2AE, UK
 
 **Previously:**
 - Pre-doctoral fellow at [FAIR - CELE, Norwegian School of Economics](https://www.nhh.no/en/research-centres/fair)
-- BA (2021) and MSc (2023) in Economics, .[Alma Mater Studiorum - Università di Bologna](https://dse.unibo.it/it/index.html) 
+- BA (2021) and MSc (2023) in Economics, [Alma Mater Studiorum - Università di Bologna](https://dse.unibo.it/it/index.html) 
 
 **Research interests**
 - Political Economy
