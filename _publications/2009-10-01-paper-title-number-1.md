@@ -7,8 +7,9 @@ collection: research
 permalink: /research/unemployment
 
 
-excerpt: ''
+excerpt: 'joint with K. Salvanes (NHH)'
 
+date: 2024-01-01
 
 venue: ''
 
