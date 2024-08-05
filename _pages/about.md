@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-MRes student in Political Science at the LSE. 
-----
+MRes/PhD student, Political Science and Political Economy
+
+Department of Government, London School of Economics & Political Science
+
+Houghton Street, London WC2A 2AE, UK
 
 **Previously:**
 - Pre-doctoral fellow at FAIR - CELE, Norwegian School of Economics
