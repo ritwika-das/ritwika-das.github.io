@@ -21,6 +21,7 @@ Previously pre-doctoral fellow at [FAIR - CELE, Norwegian School of Economics](h
 **Research interests**
 * Political Economy
 * Economic History
+* Applied Microeconomics
 
 
 
