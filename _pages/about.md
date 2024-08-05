@@ -15,7 +15,7 @@ MRes/PhD student, Political Science and Political Economy
 
 <address>
  Houghton Street <br /> London WC2A 2AE<br /> UK
-</address>, 
+</address>
 
 **Previously:**
 - Pre-doctoral fellow at [FAIR - CELE, Norwegian School of Economics](https://www.nhh.no/en/research-centres/fair)
