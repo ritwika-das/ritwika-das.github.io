@@ -8,8 +8,11 @@ author_profile: true
 Work in Progress
 ------
 
-{% include base_path %}
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Unemployment, war, and technological change in XXth century Norway
+  joint with K. Salvanes (NHH)
+
+#{% include base_path %}
+#{% for post in site.publications reversed %}
+#  {% include archive-single.html %}
+#{% endfor %}
 
