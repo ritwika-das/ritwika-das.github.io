@@ -5,18 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Work in Progress
-------
-
-{% for post in site.publications reversed %}
-  {% if post.PublicationStatus == 'WorkInProgress' %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
----------------------
-
----
 ## Work in Progress
 
 [**The Bolshevik roots of social capital: an empirical investigation**]() <br>
