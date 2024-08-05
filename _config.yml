@@ -10,7 +10,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Christian Cervellera"
-title_separator          : ""
+title_separator          : "-"
 name                     : &name "Christian Cervellera"
 description              : &description "personal description"
 url                      : https://christiancervellera.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
