@@ -15,7 +15,9 @@ Master's thesis
 
   <details>
     <summary> Abstract </summary>
-    
+This paper investigates the long-term effects of the Red Scare on social capital in Italy. The Red Biennium (1919-20) instigated significant revolutionary threat and political mobilization, introducing social struggle to previously inactive areas in the country. 
+    Drawing on war casualties as a source of exogenous variation, I show that the revolutionary threat during the Italian Red Biennium led to a sizeable decrease in social capital within the length of a generation, with limited evidence of long-term effects. The impact varies and is positive in regions mobilizing for the first time in their history during the Red Biennium, as documented by historical accounts. 
+    I suggest evidence in favour of the role of polarization and the subsequent political violence.
   </details> 
     
 ---
