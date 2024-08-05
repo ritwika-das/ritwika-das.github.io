@@ -1,11 +1,27 @@
 ---
-title: "Unemployment, war, and technological change in XXth "
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'joint with K. Salvanes (NHH)'
-# date: 
-# venue: 'Journal 1'
-# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+
+title: "Unemployment, war, and technological change in XXth century Norway"
+
+collection: research
+
+permalink: /research/unemployment
+
+
+excerpt: ''
+
+date: 2024
+
+venue: ''
+
+paperurl: ''
+
+citation: 'Cervellera, C. & Salvanes, K. (2024). &quot; Unemployment, war, and technological change in XXth century Norway &quot; <i>Working Paper</i>.'
+
+PublicationStatus: 'WorkInProgress'
+
 ---
+We estimate local unemployment rates in Norway over 1900-1945 and provide further exercises.
+
+[Download]()
+
+Cervellera, C. & Salvanes, K. (2024). &quot; Unemployment, war, and technological change in XXth century Norway &quot; <i>Working Paper</i>.'
