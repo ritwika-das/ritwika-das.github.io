@@ -28,8 +28,8 @@ author:
   name             : "Christian Cervellera"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "MRes/PhD student, Political Science and Political Economy"
-  location         : "London, UK"
-  employer         : "Department of Government, London School of Economics"
+  location         : "Houghton Street, London WC2A 2AE, UK"
+  employer         : "Department of Government, LSE"
   uri              : # URL
   email            : "ccervellera.cc@gmail.com" 
 
@@ -124,7 +124,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -212,9 +212,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  #talks:
+  #  output: true
+  #  permalink: /:collection/:path/
 
 
 # Defaults
@@ -262,16 +262,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
 
 
 # Sass/SCSS
