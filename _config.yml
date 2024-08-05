@@ -9,8 +9,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "An academic website"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 name                     : &name "Christian Cervellera"
 description              : &description "personal description"
 url                      : https://christiancervellera.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -28,7 +28,7 @@ author:
   bio              : "MRes/PhD student, Political Science and Political Economy"
   location         : "Houghton Street, London UK"
   employer         : "Department of Government, LSE"
-  uri              : # URL
+  uri              : https://christiancervellera.github.io
   email            : "ccervellera.cc@gmail.com" 
 
   # Academic websites
