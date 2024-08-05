@@ -9,7 +9,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Christian Cervellera"
 title_separator          : ""
 name                     : &name "Christian Cervellera"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "christiancervellera/christiancervellera.github.io"
 author:
   # Biographic information
   avatar           : "s16064.jpg"
-  name             : "Christian Cervellera"
+  name             : ""
   pronouns         : "he/him" # example: "she/her"  
   bio              : "MRes/PhD student, Political Science and Political Economy"
   location         : "Houghton Street, London UK"
