@@ -9,9 +9,9 @@ Work in Progress
 ------
 
 The Bolshevik roots of social capital: an empirical investigation
-: Master's thesis
+: _Master's thesis_
 
 Unemployment, war, and technological change in XXth century Norway
-: joint with K. Salvanes (NHH)
+: _joint with K. Salvanes (NHH)_
 
 
