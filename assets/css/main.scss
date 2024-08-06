@@ -43,4 +43,3 @@ $link-color: red;
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'dirt' }}"; // skin
