@@ -12,7 +12,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Christian Cervellera"
 title_separator          : "-"
 name                     : &name "Christian Cervellera"
 description              : &description "MRes/PhD student at LSE"
@@ -31,9 +31,9 @@ author:
   logo             : "images/logo.png"
   name             : "Christian Cervellera"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "MRes/PhD student, Political Science and Political Economy"
-  location         : "London, UK"
-  employer         : "London School of Economics"
+  bio              : ""
+  location         : ""
+  employer         : "LSE"
   uri              : 
   email            : "ccervellera.cc@gmail.com" 
 
