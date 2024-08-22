@@ -22,7 +22,7 @@ This paper investigates the long-term effects of the Red Scare on social capital
     
 ---
 
-[**War, unemployment, and technological change in XXth century Norway**]() <br>
+[**Unemployment, war, and technological change in XXth century Norway**]() <br>
 with [K. Salvanes](https://sites.google.com/view/kjellsalvanes)
 
 
