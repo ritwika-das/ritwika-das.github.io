@@ -7,7 +7,7 @@ author_profile: true
 
 ## Work in Progress
 
-[**The Bolshevik roots of social capital: an empirical investigation**](/files/redscare_Italy_Cervellera.pdf) <br>
+**The Bolshevik roots of social capital: an empirical investigation** [[pdf]](/files/redscare_Italy_Cervellera.pdf) <br>
 Master's thesis
 
 ###### Presented at: Norwegian Winter Games in Economic History 2023; FAIR P&P
