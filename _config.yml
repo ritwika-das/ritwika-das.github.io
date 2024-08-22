@@ -29,7 +29,7 @@ author:
   # Biographic information
   avatar           : "s16064.jpg"
   logo             : "images/logo.png"
-  name             : "Christian Cervellera"
+  name             : #"Christian Cervellera"
   pronouns         : "he/him" # example: "she/her"  
   bio              : 
   location         : 
