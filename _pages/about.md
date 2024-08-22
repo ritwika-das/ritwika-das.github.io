@@ -14,6 +14,7 @@ MRes/PhD student, Political Science and Political Economy
 Department of Government<br />London School of Economics and Political Science<br />Houghton Street <br /> London WC2A 2AE<br /> UK
 </address> <br>
 [ccervellera.cc@gmail.com](mailto:ccervellera.cc@gmail.com)
+
 ---
 
 BA (2021) and MSc (2023) in Economics, [Alma Mater Studiorum - Università di Bologna](https://dse.unibo.it/it/index.html) <br>
