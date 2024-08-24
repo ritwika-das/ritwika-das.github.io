@@ -17,9 +17,9 @@ Department of Government<br />London School of Economics and Political Science<b
 
 ---
 
-B.A. (2021) and M.Sc. (2023) in Economics, [Alma Mater Studiorum - Università di Bologna](https://dse.unibo.it/it/index.html) <br>
+🎓 B.A. (2021) and M.Sc. (2023) in Economics, [Alma Mater Studiorum - Università di Bologna](https://dse.unibo.it/it/index.html) <br>
 
-Previously pre-doctoral fellow at [FAIR - CELE, Norwegian School of Economics](https://www.nhh.no/en/research-centres/fair)
+Previously pre-doctoral fellow at [FAIR, Norwegian School of Economics](https://www.nhh.no/en/research-centres/fair)
 
 ---
 
