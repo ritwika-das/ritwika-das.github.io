@@ -30,7 +30,7 @@ author:
   avatar           : "s16064.jpg"
   logo             : "images/logo.png"
   name             : #"Christian Cervellera"
-  pronouns         : "he/him" # example: "she/her"  
+  pronouns         : #"he/him" # example: "she/her"  
   bio              : 
   location         : 
   employer         : 
