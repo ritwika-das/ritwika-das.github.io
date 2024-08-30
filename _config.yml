@@ -128,7 +128,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "@_natriskij"
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
