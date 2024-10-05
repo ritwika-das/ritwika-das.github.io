@@ -11,11 +11,11 @@
 
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Christian Cervellera"
+locale                   : "London"
+title                    : "Ritwika Das"
 title_separator          : "-"
 name                     : &name "Christian Cervellera"
-description              : &description "MRes/PhD student at LSE"
+description              : &description "MSc in Social Data Science at LSE"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "christiancervellera/christiancervellera.github.io"
